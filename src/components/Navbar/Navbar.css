@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(227, 224, 224);
+    width: 100%;
+    height: 110px;
+}
+.nav-bar{
+    color:var(--main-color);
+    display: flex;
+    justify-content: space-between;   
+    width: 550px;
+   
+}
+
+.nav-item{
+  
+    color: black;
+}
+
+.main-actions {
+    display: flex;
+    width: 120px;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 15px;
+}
+
+.fa-brands{
+    color: #000;
+}
+ul{
+    list-style: none;
+}
